@@ -1,0 +1,18 @@
+{
+  "Dólar Oficial": {
+    "compra": 224.65,
+    "venta": 232.06
+  },
+  "Dólar Blue" : {
+    "compra": 470.00,
+    "venta": 475.00
+  },
+  "Dólar contado con liqui": {
+    "compra": 428.65,
+    "venta": 436.21
+  },
+  "Dolar MEP": {
+    "compra": 429.21,
+    "venta": 429.49
+  }
+}
