@@ -1,5 +1,3 @@
-"use client";
-
 import React from "react";
 
 function Form({value, onChange}: {value: number; onChange: (amount: number) => void}) {
